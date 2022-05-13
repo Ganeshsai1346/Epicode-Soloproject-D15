@@ -38,3 +38,6 @@ tr {
 p {
   margin-bottom: 50px;
 }
+.hiden {
+  visibility: hidden;
+}
